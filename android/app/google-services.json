@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720796711227",
+    "project_id": "checker-santos",
+    "storage_bucket": "checker-santos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720796711227:android:17cb0f0211d3a572631f1e",
+        "android_client_info": {
+          "package_name": "com.example.santos_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720796711227-8qv90lhd9mjl8glglhrjlg20llcn1f7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92B9g1NsZ5LM7X46XyqA7NHEGs5rNkrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720796711227-8qv90lhd9mjl8glglhrjlg20llcn1f7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
